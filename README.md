@@ -2,7 +2,7 @@
 
 ## 🎉 Oracle ACE Apprentice
 
-I am honored to be recognized as an **Oracle ACE Apprentice** – a global community recognition by Oracle for consistent contribution, knowledge sharing, mentoring, and community involvement.
+I am honored to be recognized as an **Oracle ACE Associate** – a global community recognition by Oracle for consistent contribution, knowledge sharing, mentoring, and community involvement.
 
 This is not a certification. It is recognition for active participation and impact in the Oracle community.
 
